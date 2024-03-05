@@ -15,4 +15,5 @@ Componentes necessários:
 ![projeto](https://github.com/Fabio-Kenji/Alarme-IoT/assets/47217353/d2214536-2b23-4e56-ade9-11ee4231d019)
 
 Link da apresentação feita a faculdade sobre o projeto: https://www.youtube.com/watch?v=yyTj9jcG5tg
+
 Feito por Fabio Kenji e Lucas Abe
